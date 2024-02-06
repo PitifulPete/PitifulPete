@@ -1,6 +1,6 @@
 ### Hi there 👋
 welcome to my GitHub profile page.
-
+<p> <img src="https://api.vaunt.dev/v1/github/entities/PitifulPete/achievements?format=svg&limit=3" width="350" /> </p>
 #### There are so many interesting things to tell you, but let's start from here:
 - i'm a Technical Writer --- and i absolutely love everything about the profession 
 - i don't just exist in this space, i exist with the conviction that documentation (and extensively, content) is fundanmental to the sucess of any user-involving exercise.
