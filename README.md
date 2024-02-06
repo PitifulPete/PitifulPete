@@ -9,5 +9,5 @@ welcome to my GitHub profile page.
 #### Now let's take a break. 
 You can visit my [portfolio](https://peter-oyebanji.netlify.app/) if you haven't. 
 
-#### Like what you see? send me an email:
+#### Like what you saw? send me an email:
 <u>adewuyipeter50@gmail.com</u>
